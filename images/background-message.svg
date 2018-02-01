@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="429" height="149" viewBox="0 0 429 149">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Прямоугольник_589" data-name="Прямоугольник 589" class="cls-1" width="429" height="126" rx="30" ry="30"/>
+  <path id="Фигура_590" data-name="Фигура 590" class="cls-2" d="M394.042,124.169c6.732,2.457,14.672,3.377,20.431,7.619,6.025,3.859,9.869,11.04,14.524,17.2V97.006c-12.106,9.37-22.315,15.865-34.955,27.163"/>
+</svg>
