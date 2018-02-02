@@ -1220,6 +1220,7 @@ h3 {
 .value__tab-text {
     max-width: 880px;
     padding-left: 43px;
+    margin-bottom: 4.0625rem;
 }
 .value__tab-p {
     position: relative;
@@ -1366,7 +1367,7 @@ h3 {
 }
 .rates__table tfoot td:not(.rates__table-text-prev){
     font-weight: 700;
-    font-size: 2.25rem;
+    font-size: 2rem;
     line-height: normal;
     color: #0066a1;
 }
@@ -2118,6 +2119,10 @@ input:-webkit-autofill {
 .mobile-menu__item-link:hover, .mobile-menu__item-link:active {
     background-color: #606a79;
 }
+.rates {
+    padding-right: 15px;
+    padding-left: 15px;
+}
 @media (max-width: 1400px) {
     .header_main__main-content {
         margin-top: 4.75rem;
@@ -2158,10 +2163,13 @@ input:-webkit-autofill {
         padding-bottom: 1.8125rem;
     }
     .rates__table tfoot td:not(.rates__table-text-prev) {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     .to-top__top {
         right: 15px;
+    }
+    .retes__table-clock {
+        font-size: 1.3rem !important;
     }
 }
 @media (max-width: 1024px) {
